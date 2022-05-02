@@ -18,7 +18,7 @@ GitPython==3.1.17
 google>=3.0.0
 google-cloud-webrisk==1.2.0
 maxminddb==2.0.3
-mwdblib==3.4.0
+mwdblib==4.2.1
 oletools==0.56.2
 OTXv2==1.5.12
 peepdf-fork==0.4.3
